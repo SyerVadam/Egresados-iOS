@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "EgresadosUVImageLogo 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "EgresadosUVImageLogo.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "EgresadosUVImageLogo 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
